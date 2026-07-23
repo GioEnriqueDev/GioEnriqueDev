@@ -1,6 +1,6 @@
 ### Hi, I'm Giovanni 👋
 
-I'm a **second-year Computer Science student** at **Tor Vergata University of Rome** — and I've shipped **15 B2B platforms into production** before starting that second year.
+I'm a **Computer Science student** at **Tor Vergata University of Rome** — and I've shipped **15 B2B platforms into production** before starting that second year.
 
 That order is the whole story: I learned engineering by having users, then went to university to find out what the things I'd built were called.
 
